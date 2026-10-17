@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "version": 1,
   "skills": {
@@ -10,16 +9,3 @@
     }
   }
 }
-=======
-{
-  "version": 1,
-  "skills": {
-    "gravitas": {
-      "source": "udaysharmadev/Gravitas",
-      "sourceType": "github",
-      "skillPath": "skills/gravitas/SKILL.md",
-      "computedHash": "1ef9a8048a626aafe7c87f74cefaf030e71cff6231abad5e917cc5d9cd1fdefb"
-    }
-  }
-}
->>>>>>> aa2918f1c9718902f94924ce689ebe80ccb66e07
