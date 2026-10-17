@@ -4,7 +4,7 @@ A high-performance, Windows desktop-inspired Project & Task Management applicati
 
 ---
 
-## 🌟 Visuals & Features Replicated from Screenshots
+## 🌟 Visuals & Features
 
 ### 1. Dashboard (`DashboardView.jsx`)
 - **6 Key Performance Indicators (KPIs)**: Projects (3), Open Tasks (38), Due Today (4), Late (3), Done this week (11), Notes (5).
@@ -58,10 +58,10 @@ A high-performance, Windows desktop-inspired Project & Task Management applicati
 
 ---
 
-## 🚀 NEW Productivity Superchargers
+## 🚀 Productivity Superchargers
 
 1. **AI Productivity Copilot (`AiAssistantModal.jsx`)**:
-   - Deconstructs broad goals (e.g. *"Automate pneumatic pick-and-place station"*) into 5 actionable, prioritized subtasks with time estimates in 1 click.
+   - Deconstructs broad goals into actionable, prioritized subtasks with time estimates in 1 click.
 2. **"My Day" & Deep Work Focus (`MyDayView.jsx`)**:
    - Integrated Pomodoro timer (25m Deep Work, 5m Short Break, 15m Long Break).
    - **Offline Web Audio Ambient Soundscapes**: Real-time synthesized Rain Drops, White Noise, and 40Hz Gamma Concentration tone (binaural beats).
@@ -88,4 +88,9 @@ npm run dev
 # Build for production
 npm run build
 ```
-The application runs on `http://127.0.0.1:3000/`.
+
+---
+
+## 🛰 Orbit AI Workspace & Desktop Agent (Integrated)
+
+This repository also contains Orbit assets (`server.py`, `run_orbit.bat`, `requirements.txt`, `app.js`, `styles.css`) for desktop AI assistance, screen analysis, and voice tools.
